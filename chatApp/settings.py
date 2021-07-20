@@ -25,7 +25,7 @@ SECRET_KEY = '6u*h^$w1ielwjw%797zzr8**hmbh@!_mc(f7p@qh6x$e69zufy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True  # Will Turn  False when ready for deployment
 
-ALLOWED_HOSTS = ['192.168.0.1:4000', '127.0.0.1']
+ALLOWED_HOSTS = ['calm-escarpment-95158.herokuapp.com', '127.0.0.1']
               
 
 
